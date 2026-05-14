@@ -18,7 +18,7 @@ function gradeScore(score) {
 }
 
 // Example usage:
-gradeScore(5); // Output: Excellent
+gradeScore(85); // Output: Excellent
 gradeScore(65); // Output: Very good
 gradeScore(55); // Output: Good
 gradeScore(45); // Output: Poor
